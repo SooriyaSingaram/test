@@ -1,0 +1,12 @@
+[
+    {
+        "RBAC": [
+            "Roles",
+            "Template",
+            "Organization",
+            "AdminManagement",
+            "UserManagement",
+            "Trigger"
+        ]
+    }
+]

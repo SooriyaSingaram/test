@@ -1,0 +1,28 @@
+{
+  "name": "DynamicDashboard",
+  "version": "1.0.1",
+  "description": "Dynamic Dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Surya S",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "~1.2.0",
+    "dotenv": "^5.0.0",
+    "express": "~4.2.0",
+    "jsonwebtoken": "^8.1.1",
+    "mongoose": "^5.0.3",
+    "mongoose-schema-extend": "0.1.7",
+    "morgan": "^1.9.0",
+    "nodemailer": "^4.4.2",
+    "nodemon": "^1.8.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "randomstring": "^1.1.5",
+    "serve-favicon": "~2.2.0"
+  },
+  "devDependencies": {}
+}
